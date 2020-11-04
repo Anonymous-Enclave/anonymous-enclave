@@ -1,0 +1,5 @@
+TODO.md
+.vscode/*
+src/*.o
+filesystem
+test

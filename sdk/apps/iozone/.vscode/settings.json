@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "signal.h": "c",
+        "cstdio": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "c",
+        "fcntl.h": "c",
+        "syscall.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "fsclient.h": "c",
+        "atomic": "c",
+        "sstream": "c"
+    }
+}

@@ -1,0 +1,6 @@
+hello
+host
+test-stop
+*.dump
+*.o
+*.S

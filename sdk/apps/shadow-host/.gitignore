@@ -1,0 +1,4 @@
+shadow-host
+*.dump
+*.o
+*.S

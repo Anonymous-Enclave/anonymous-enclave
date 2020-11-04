@@ -1,0 +1,4 @@
+testfs
+*.dump
+*.o
+*.S

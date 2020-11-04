@@ -1,0 +1,4 @@
+split
+*.dump
+*.o
+*.S

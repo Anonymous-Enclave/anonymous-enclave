@@ -1,0 +1,40 @@
+sm_hdrs = \
+  pmp.h \
+  sm.h \
+  enclave_args.h \
+  enclave_vm.h \
+  enclave.h \
+  server_enclave.h \
+  platform/@TARGET_PLATFORM@/platform.h \
+  thread.h \
+  math.h \
+  gm/sm3.h \
+  gm/sm2.h \
+  attest.h \
+  relay_page.h
+
+sm_c_srcs = \
+  ipi.c \
+  pmp.c \
+  platform/@TARGET_PLATFORM@/platform.c \
+  sm.c \
+  enclave_vm.c \
+  enclave.c \
+  server_enclave.c \
+  thread.c \
+  math.c \
+  gm/big.c \
+  gm/ecc.c \
+  gm/random.c \
+  gm/sm3.c \
+  gm/sm2.c \
+  attest.c \
+  relay_page.c
+
+sm_asm_srcs = \
+
+
+sm_test_srcs =
+
+
+sm_install_prog_srcs = 
